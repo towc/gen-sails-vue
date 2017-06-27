@@ -2,8 +2,7 @@
 Generate a sails/vue app with not much effort and in a short amount of time!
 
 ```bash
-git clone https://github.com/towc/gen-sails-vue
-mv -f gen-sails-vue project-name
+git clone https://github.com/towc/gen-sails-vue project-name
 cd project-name
 ./create.sh
 ```
