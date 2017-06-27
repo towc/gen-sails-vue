@@ -4,4 +4,7 @@
 sails new backend &&
 cd backend &&
 sails generate controller vue &&
-mv ../vue-controller-serve.js api/controllers/VueController.js
+mv ../vue-controller-serve.js api/controllers/VueController.js &&
+rm -rf .git &&
+rm .gitignore &&
+rm LICENSE
