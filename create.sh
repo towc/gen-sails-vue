@@ -38,4 +38,4 @@ mv ../vue-controller-serve.js api/controllers/VueController.js &&
 echo "############################################" &&
 echo "# removing shell scripts for final cleanup # 8/8" &&
 echo "############################################" &&
-rm create.sh create-vue.sh
+rm ../create.sh ../create-vue.sh
